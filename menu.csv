@@ -1,0 +1,10 @@
+Food,Price,allergens
+Samosa,20,"Gluten, Nuts"
+Soya Chaap,150,"Soy, Nuts"
+Paneer Tikka,200,"Dairy, Nuts"
+Curry-Rice,250,"Soy, Gluten, Diary"
+Rajma-Rice,300,"Diary, Gluten, Mustard"
+Tandoori Roti-Shahi Paneer,400,"Gluten, Dairy"
+Gulab Jamun,40,"Dairy, Nuts"
+Ice Cream,60,Dairy
+Rasmalai,100,"Dairy, Nuts"
